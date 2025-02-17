@@ -21,9 +21,9 @@ if numero_repeticiones > 12 :
 if numero_repeticiones > 20 and numero_repeticiones < 100 :
     st.write('El numero de repeticiones es demasiado alto, los calculos probablemente no tengan sentido')
 if numero_repeticiones > 100 :
-    st.write('vo so tonto como vas a hacer ', numero_repeticiones, ' repeticiones?')
+    st.write('como vas a hacer ', numero_repeticiones, ' repeticiones?')
 
 if peso > 100 :
-    st.write('que buen peso skibidi')
+    st.write('que buen peso!')
 
 st.write( "RM según formula deBrzyck : ", rm_Brzyck_2)
